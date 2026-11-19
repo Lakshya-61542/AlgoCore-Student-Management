@@ -97,3 +97,17 @@ Computer Science and Engineering (AI & ML)
 ## License
 
 This project is available for educational and learning purposes.
+
+## Application Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Student Records
+![Student Records](screenshots/student-records.png)
+
+### Input Validation
+![Input Validation](screenshots/input-validation.png)
+
+### Top Scorer
+![Top Scorer](screenshots/top-scorer.png)
